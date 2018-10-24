@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74010050312",
+    "firebase_url": "https://ssrchemicals-01.firebaseio.com",
+    "project_id": "ssrchemicals-01",
+    "storage_bucket": "ssrchemicals-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74010050312:android:fad9a6298266fc01",
+        "android_client_info": {
+          "package_name": "com.example.princ.ssrchemicals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74010050312-ue70f184jvsjbce6e0r1kgokhporra7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.princ.ssrchemicals",
+            "certificate_hash": "8c1b21d98d4118be1f0d50fe726f26e9b6c538b9"
+          }
+        },
+        {
+          "client_id": "74010050312-r8pobhrm7neg2upkervlglnjulcshm14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9F08567kvSubzzWF3Miw_h-aAdDlyNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74010050312-r8pobhrm7neg2upkervlglnjulcshm14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
