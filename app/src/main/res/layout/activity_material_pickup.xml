@@ -57,7 +57,7 @@
         android:layout_height="wrap_content">
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
@@ -104,4 +104,16 @@
             android:background="#A9d440"
             android:text="Close Vehicle" />
     </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="8dp"
+        android:layout_weight="1"
+        android:background="#ed3235"
+        android:text="Logout" />
 </RelativeLayout>

@@ -19,13 +19,13 @@
         <activity android:name=".LoginActivity" />
         <activity
             android:name=".OperationsActivity" />
-        <activity android:name=".Material_Inspection_Activity" />
-        <activity android:name=".Material_Details_Activity" />
-        <activity android:name=".Material_Pickup_Activity" />
-        <activity android:name=".Vehicle_Details_Activity" />
-        <activity android:name=".Material_Details_View_Activity" />
-        <activity android:name=".Other_Expenses_Activity" />
-        <activity android:name=".Close_Vehicle_Activity" />
-        <activity android:name=".Customer_Visit_Activity"></activity>
+        <activity android:name=".MaterialInspectionActivity" />
+        <activity android:name=".MaterialDetailsActivity" />
+        <activity android:name=".MaterialPickupActivity" />
+        <activity android:name=".VehicleDetailsActivity" />
+        <activity android:name=".MaterialDetailsViewActivity" />
+        <activity android:name=".OtherExpensesActivity" />
+        <activity android:name=".CloseVehicleActivity" />
+        <activity android:name=".CustomerVisitActivity"></activity>
     </application>
 </manifest>
